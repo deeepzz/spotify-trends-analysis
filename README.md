@@ -24,5 +24,3 @@ Enter a Spotify Playlist ID.
 Click the Analyze Playlist button.
 View insights on tempo, danceability, and genre diversity.
 Explore song recommendations based on playlist trends.
-
-This project is licensed under the AGPL-3.0 License.
